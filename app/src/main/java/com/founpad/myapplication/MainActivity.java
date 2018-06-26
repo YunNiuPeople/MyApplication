@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Log.v("MainActivity","测试分享到github");
 
         Log.v("MainActivity","第3次改变");
+
+        Log.v("MainActivity","第四次提交");
     }
 }
